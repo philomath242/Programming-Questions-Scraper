@@ -1,0 +1,645 @@
+title,tag,difficulty,avg_time,link,company
+Gas Station,Greedy Algorithm,medium,56 Mins,https://www.interviewbit.com/problems/gas-station,NS
+Majority Element,Greedy Algorithm,easy,19 Mins,https://www.interviewbit.com/problems/majority-element,NS
+Distribute Candy,Greedy Algorithm,medium,65 Mins,https://www.interviewbit.com/problems/distribute-candy,NS
+Longest Increasing Subsequence,Dynamic Programming,medium,30 Mins,https://www.interviewbit.com/problems/longest-increasing-subsequence,NS
+Unique Binary Search Trees,Dynamic Programming,easy,60 Mins,https://www.interviewbit.com/problems/unique-binary-search-trees,NS
+Max Rectangle in Binary Matrix,Dynamic Programming,medium,78 Mins,https://www.interviewbit.com/problems/max-rectangle-in-binary-matrix,NS
+Distinct Subsequences,Dynamic Programming,medium,65 Mins,https://www.interviewbit.com/problems/distinct-subsequences,NS
+Unique Paths in a Grid,Dynamic Programming,medium,34 Mins,https://www.interviewbit.com/problems/unique-paths-in-a-grid,NS
+Max Product Subarray,Dynamic Programming,medium,65 Mins,https://www.interviewbit.com/problems/max-product-subarray,NS
+Ways to Decode,Dynamic Programming,medium,70 Mins,https://www.interviewbit.com/problems/ways-to-decode,NS
+Best Time to Buy and Sell Stocks II,Dynamic Programming,easy,40 Mins,https://www.interviewbit.com/problems/best-time-to-buy-and-sell-stocks-ii,NS
+Best Time to Buy and Sell Stocks III,Dynamic Programming,hard,63 Mins,https://www.interviewbit.com/problems/best-time-to-buy-and-sell-stocks-iii,NS
+Scramble String,Dynamic Programming,hard,70 Mins,https://www.interviewbit.com/problems/scramble-string,NS
+Best Time to Buy and Sell Stocks I,Dynamic Programming,easy,28 Mins,https://www.interviewbit.com/problems/best-time-to-buy-and-sell-stocks-i,NS
+Max Sum Path in Binary Tree,Dynamic Programming,medium,55 Mins,https://www.interviewbit.com/problems/max-sum-path-in-binary-tree,NS
+Regular Expression Match,Dynamic Programming,hard,77 Mins,https://www.interviewbit.com/problems/regular-expression-match,NS
+Dungeon Princess,Dynamic Programming,medium,70 Mins,https://www.interviewbit.com/problems/dungeon-princess,NS
+Palindrome Partitioning II,Dynamic Programming,medium,62 Mins,https://www.interviewbit.com/problems/palindrome-partitioning-ii,NS
+Min Sum Path in Matrix,Dynamic Programming,medium,30 Mins,https://www.interviewbit.com/problems/min-sum-path-in-matrix,NS
+Min Jumps Array,Dynamic Programming,medium,71 Mins,https://www.interviewbit.com/problems/min-jumps-array,NS
+Edit Distance,Dynamic Programming,medium,47 Mins,https://www.interviewbit.com/problems/edit-distance,NS
+Unique Binary Search Trees II,Dynamic Programming,medium,36 Mins,https://www.interviewbit.com/problems/unique-binary-search-trees-ii,NS
+Word Break,Dynamic Programming,medium,67 Mins,https://www.interviewbit.com/problems/word-break,NS
+Regular Expression II,Dynamic Programming,hard,68 Mins,https://www.interviewbit.com/problems/regular-expression-ii,NS
+Min Sum Path in Triangle,Dynamic Programming,medium,43 Mins,https://www.interviewbit.com/problems/min-sum-path-in-triangle,NS
+Jump Game Array,Dynamic Programming,medium,41 Mins,https://www.interviewbit.com/problems/jump-game-array,NS
+Interleaving Strings,Dynamic Programming,hard,61 Mins,https://www.interviewbit.com/problems/interleaving-strings,NS
+Word Break II,Dynamic Programming,medium,67 Mins,https://www.interviewbit.com/problems/word-break-ii,NS
+Longest valid Parentheses,Dynamic Programming,medium,61 Mins,https://www.interviewbit.com/problems/longest-valid-parentheses,NS
+Stairs,Dynamic Programming,easy,15 Mins,https://www.interviewbit.com/problems/stairs,NS
+Swap List Nodes in pairs,Linked Lists,easy,33 Mins,https://www.interviewbit.com/problems/swap-list-nodes-in-pairs,NS
+Rotate List,Linked Lists,medium,33 Mins,https://www.interviewbit.com/problems/rotate-list,NS
+Reorder List,Linked Lists,hard,57 Mins,https://www.interviewbit.com/problems/reorder-list,NS
+Sort List,Linked Lists,medium,59 Mins,https://www.interviewbit.com/problems/sort-list,NS
+Remove Duplicates from Sorted List II,Linked Lists,medium,57 Mins,https://www.interviewbit.com/problems/remove-duplicates-from-sorted-list-ii,NS
+Merge Two Sorted Lists,Linked Lists,easy,29 Mins,https://www.interviewbit.com/problems/merge-two-sorted-lists,NS
+Remove Duplicates from Sorted List,Linked Lists,easy,17 Mins,https://www.interviewbit.com/problems/remove-duplicates-from-sorted-list,NS
+Add Two Numbers as Lists,Linked Lists,medium,43 Mins,https://www.interviewbit.com/problems/add-two-numbers-as-lists,NS
+Remove Nth Node from List End,Linked Lists,easy,27 Mins,https://www.interviewbit.com/problems/remove-nth-node-from-list-end,NS
+Partition List,Linked Lists,medium,49 Mins,https://www.interviewbit.com/problems/partition-list,NS
+Insertion Sort List,Linked Lists,medium,49 Mins,https://www.interviewbit.com/problems/insertion-sort-list,NS
+List Cycle,Linked Lists,medium,39 Mins,https://www.interviewbit.com/problems/list-cycle,NS
+Intersection of Linked Lists,Linked Lists,easy,46 Mins,https://www.interviewbit.com/problems/intersection-of-linked-lists,NS
+Reverse Link List II,Linked Lists,medium,57 Mins,https://www.interviewbit.com/problems/reverse-link-list-ii,NS
+Evaluate Expression,Stacks And Queues,easy,32 Mins,https://www.interviewbit.com/problems/evaluate-expression,NS
+Rain Water Trapped,Stacks And Queues,hard,59 Mins,https://www.interviewbit.com/problems/rain-water-trapped,NS
+Generate all Parentheses,Stacks And Queues,easy,29 Mins,https://www.interviewbit.com/problems/generate-all-parentheses,NS
+Largest Rectangle in Histogram,Stacks And Queues,hard,65 Mins,https://www.interviewbit.com/problems/largest-rectangle-in-histogram,NS
+Sliding Window Maximum,Stacks And Queues,medium,69 Mins,https://www.interviewbit.com/problems/sliding-window-maximum,NS
+Simplify Directory Path,Stacks And Queues,medium,54 Mins,https://www.interviewbit.com/problems/simplify-directory-path,NS
+Min Stack,Stacks And Queues,medium,43 Mins,https://www.interviewbit.com/problems/min-stack,NS
+Kth Row of Pascal's Triangle,Arrays,easy,28 Mins,https://www.interviewbit.com/problems/kth-row-of-pascal's-triangle,NS
+Rotate Matrix,Arrays,medium,60 Mins,https://www.interviewbit.com/problems/rotate-matrix,NS
+Max Sum Contiguous Subarray,Arrays,easy,33 Mins,https://www.interviewbit.com/problems/max-sum-contiguous-subarray,NS
+Find Duplicate in Array,Arrays,easy,40 Mins,https://www.interviewbit.com/problems/find-duplicate-in-array,NS
+Merge Intervals,Arrays,medium,78 Mins,https://www.interviewbit.com/problems/merge-intervals,NS
+Spiral Order Matrix I,Arrays,easy,68 Mins,https://www.interviewbit.com/problems/spiral-order-matrix-i,NS
+Repeat and Missing Number Array,Arrays,medium,63 Mins,https://www.interviewbit.com/problems/repeat-and-missing-number-array,NS
+Merge Overlapping Intervals,Arrays,medium,48 Mins,https://www.interviewbit.com/problems/merge-overlapping-intervals,NS
+Set Matrix Zeros,Arrays,easy,48 Mins,https://www.interviewbit.com/problems/set-matrix-zeros,NS
+Spiral Order Matrix II,Arrays,easy,48 Mins,https://www.interviewbit.com/problems/spiral-order-matrix-ii,NS
+Largest Number,Arrays,medium,70 Mins,https://www.interviewbit.com/problems/largest-number,NS
+First Missing Integer,Arrays,medium,64 Mins,https://www.interviewbit.com/problems/first-missing-integer,NS
+Add One To Number,Arrays,easy,43 Mins,https://www.interviewbit.com/problems/add-one-to-number,NS
+N/3 Repeat Number,Arrays,medium,68 Mins,https://www.interviewbit.com/problems/n/3-repeat-number,NS
+Pascal Triangle,Arrays,easy,26 Mins,https://www.interviewbit.com/problems/pascal-triangle,NS
+Maximum Consecutive Gap,Arrays,medium,58 Mins,https://www.interviewbit.com/problems/maximum-consecutive-gap,NS
+Max Distance,Arrays,medium,68 Mins,https://www.interviewbit.com/problems/max-distance,NS
+Next Permutation,Arrays,medium,63 Mins,https://www.interviewbit.com/problems/next-permutation,NS
+Palindrome Integer,Math,easy,17 Mins,https://www.interviewbit.com/problems/palindrome-integer,NS
+Verify Prime,Math,easy,14 Mins,https://www.interviewbit.com/problems/verify-prime,NS
+Excel Column Number,Math,easy,23 Mins,https://www.interviewbit.com/problems/excel-column-number,NS
+Reverse integer,Math,easy,28 Mins,https://www.interviewbit.com/problems/reverse-integer,NS
+Excel Column Title,Math,easy,41 Mins,https://www.interviewbit.com/problems/excel-column-title,NS
+Grid Unique Paths,Math,medium,32 Mins,https://www.interviewbit.com/problems/grid-unique-paths,NS
+Trailing Zeros in Factorial,Math,medium,18 Mins,https://www.interviewbit.com/problems/trailing-zeros-in-factorial,NS
+All Factors,Math,easy,35 Mins,https://www.interviewbit.com/problems/all-factors,NS
+Monkeys and Doors,Puzzles,easy,12 Mins,https://www.interviewbit.com/problems/monkeys-and-doors,NS
+Ten Black and White Socks,Puzzles,easy,4 Mins,https://www.interviewbit.com/problems/ten-black-and-white-socks,NS
+Daughters' Ages,Puzzles,easy,12 Mins,https://www.interviewbit.com/problems/daughters'-ages,NS
+Breaking Chocolate Bars,Puzzles,easy,5 Mins,https://www.interviewbit.com/problems/breaking-chocolate-bars,NS
+Jelly Beans Jars,Puzzles,easy,8 Mins,https://www.interviewbit.com/problems/jelly-beans-jars,NS
+Medicine Chest on a Boat,Puzzles,easy,9 Mins,https://www.interviewbit.com/problems/medicine-chest-on-a-boat,NS
+Cross the Bridge,Puzzles,easy,9 Mins,https://www.interviewbit.com/problems/cross-the-bridge,NS
+Spinning Disc's Direction,Puzzles,easy,7 Mins,https://www.interviewbit.com/problems/spinning-disc's-direction,NS
+Wizards and Drawves,Puzzles,easy,13 Mins,https://www.interviewbit.com/problems/wizards-and-drawves,NS
+Genie and Hats,Puzzles,easy,8 Mins,https://www.interviewbit.com/problems/genie-and-hats,NS
+Color of the last ball,Puzzles,easy,5 Mins,https://www.interviewbit.com/problems/color-of-the-last-ball,NS
+Arrange Cubes,Puzzles,easy,18 Mins,https://www.interviewbit.com/problems/arrange-cubes,NS
+Equilateral Triangles using Toothpicks,Puzzles,easy,6 Mins,https://www.interviewbit.com/problems/equilateral-triangles-using-toothpicks,NS
+The Tribe,Puzzles,easy,6 Mins,https://www.interviewbit.com/problems/the-tribe,NS
+Measure Time by Burning Ropes,Puzzles,easy,7 Mins,https://www.interviewbit.com/problems/measure-time-by-burning-ropes,NS
+Dinner Hand Shakes,Puzzles,easy,7 Mins,https://www.interviewbit.com/problems/dinner-hand-shakes,NS
+Helium Balloon,Puzzles,easy,1 Mins,https://www.interviewbit.com/problems/helium-balloon,NS
+Divide the Cake,Puzzles,easy,3 Mins,https://www.interviewbit.com/problems/divide-the-cake,NS
+Color of the last ball II,Puzzles,easy,3 Mins,https://www.interviewbit.com/problems/color-of-the-last-ball-ii,NS
+Measure Time by Hourglass,Puzzles,easy,9 Mins,https://www.interviewbit.com/problems/measure-time-by-hourglass,NS
+Make a Statement,Puzzles,easy,4 Mins,https://www.interviewbit.com/problems/make-a-statement,NS
+Two Pills each day,Puzzles,easy,3 Mins,https://www.interviewbit.com/problems/two-pills-each-day,NS
+Find the Defective Ball,Puzzles,easy,7 Mins,https://www.interviewbit.com/problems/find-the-defective-ball,NS
+Bee Travel,Puzzles,easy,9 Mins,https://www.interviewbit.com/problems/bee-travel,NS
+Six Colored Cubes,Puzzles,easy,14 Mins,https://www.interviewbit.com/problems/six-colored-cubes,NS
+Prisoners and Poison,Puzzles,easy,19 Mins,https://www.interviewbit.com/problems/prisoners-and-poison,NS
+World Trips,Puzzles,easy,10 Mins,https://www.interviewbit.com/problems/world-trips,NS
+Color of the Bear,Puzzles,easy,3 Mins,https://www.interviewbit.com/problems/color-of-the-bear,NS
+Two Numbers,Puzzles,easy,13 Mins,https://www.interviewbit.com/problems/two-numbers,NS
+Next Number,Puzzles,easy,18 Mins,https://www.interviewbit.com/problems/next-number,NS
+One Mile on the Globe,Puzzles,easy,8 Mins,https://www.interviewbit.com/problems/one-mile-on-the-globe,NS
+Marbles in Jar,Puzzles,easy,12 Mins,https://www.interviewbit.com/problems/marbles-in-jar,NS
+Divide Gold Bar,Puzzles,easy,6 Mins,https://www.interviewbit.com/problems/divide-gold-bar,NS
+Min Elevator Trips,Puzzles,easy,22 Mins,https://www.interviewbit.com/problems/min-elevator-trips,NS
+100 People in a Circle,Puzzles,easy,13 Mins,https://www.interviewbit.com/problems/100-people-in-a-circle,NS
+Gates of Heaven,Puzzles,easy,8 Mins,https://www.interviewbit.com/problems/gates-of-heaven,NS
+Fastest Horses,Puzzles,easy,7 Mins,https://www.interviewbit.com/problems/fastest-horses,NS
+Train Station,Puzzles,easy,19 Mins,https://www.interviewbit.com/problems/train-station,NS
+Cats and a Square,Puzzles,easy,8 Mins,https://www.interviewbit.com/problems/cats-and-a-square,NS
+Good Processor,Puzzles,easy,8 Mins,https://www.interviewbit.com/problems/good-processor,NS
+Quarters on a Table,Puzzles,easy,5 Mins,https://www.interviewbit.com/problems/quarters-on-a-table,NS
+Blindfolded Coin Toss,Puzzles,easy,3 Mins,https://www.interviewbit.com/problems/blindfolded-coin-toss,NS
+Measure Milk by Cans,Puzzles,easy,16 Mins,https://www.interviewbit.com/problems/measure-milk-by-cans,NS
+Light Switches in the Cellar,Puzzles,easy,3 Mins,https://www.interviewbit.com/problems/light-switches-in-the-cellar,NS
+Cross the Bridge II,Puzzles,easy,6 Mins,https://www.interviewbit.com/problems/cross-the-bridge-ii,NS
+Last Palindromic Date,Puzzles,easy,12 Mins,https://www.interviewbit.com/problems/last-palindromic-date,NS
+Fake Note,Puzzles,easy,5 Mins,https://www.interviewbit.com/problems/fake-note,NS
+Find the Defective Ball II,Puzzles,easy,3 Mins,https://www.interviewbit.com/problems/find-the-defective-ball-ii,NS
+Next Number II,Puzzles,easy,3 Mins,https://www.interviewbit.com/problems/next-number-ii,NS
+Eggs and Building,Puzzles,easy,14 Mins,https://www.interviewbit.com/problems/eggs-and-building,NS
+Celebrity Problem,Puzzles,easy,9 Mins,https://www.interviewbit.com/problems/celebrity-problem,NS
+Ants on a Triangle,Puzzles,easy,5 Mins,https://www.interviewbit.com/problems/ants-on-a-triangle,NS
+All Unique Permutations,Backtracking,medium,53 Mins,https://www.interviewbit.com/problems/all-unique-permutations,NS
+Kth Permutation Sequence,Backtracking,medium,78 Mins,https://www.interviewbit.com/problems/kth-permutation-sequence,NS
+Combination Sum,Backtracking,medium,62 Mins,https://www.interviewbit.com/problems/combination-sum,NS
+Permutations,Backtracking,medium,39 Mins,https://www.interviewbit.com/problems/permutations,NS
+Generate all Parentheses II,Backtracking,medium,52 Mins,https://www.interviewbit.com/problems/generate-all-parentheses-ii,NS
+Combination Sum II,Backtracking,medium,42 Mins,https://www.interviewbit.com/problems/combination-sum-ii,NS
+NQueens,Backtracking,hard,74 Mins,https://www.interviewbit.com/problems/nqueens,NS
+Combinations,Backtracking,medium,46 Mins,https://www.interviewbit.com/problems/combinations,NS
+Sudoku,Backtracking,hard,70 Mins,https://www.interviewbit.com/problems/sudoku,NS
+Gray Code,Backtracking,medium,58 Mins,https://www.interviewbit.com/problems/gray-code,NS
+Subsets II,Backtracking,medium,41 Mins,https://www.interviewbit.com/problems/subsets-ii,NS
+Letter Phone,Backtracking,medium,53 Mins,https://www.interviewbit.com/problems/letter-phone,NS
+Subset,Backtracking,medium,61 Mins,https://www.interviewbit.com/problems/subset,NS
+Palindrome Partitioning,Backtracking,medium,68 Mins,https://www.interviewbit.com/problems/palindrome-partitioning,NS
+Substring Concatenation,Hashing,hard,71 Mins,https://www.interviewbit.com/problems/substring-concatenation,NS
+Window String,Hashing,medium,81 Mins,https://www.interviewbit.com/problems/window-string,NS
+Longest Consecutive Sequence,Hashing,easy,57 Mins,https://www.interviewbit.com/problems/longest-consecutive-sequence,NS
+4 Sum,Hashing,medium,72 Mins,https://www.interviewbit.com/problems/4-sum,NS
+Anagrams,Hashing,medium,46 Mins,https://www.interviewbit.com/problems/anagrams,NS
+Fraction,Hashing,medium,81 Mins,https://www.interviewbit.com/problems/fraction,NS
+Points on the Straight Line,Hashing,medium,78 Mins,https://www.interviewbit.com/problems/points-on-the-straight-line,NS
+2 Sum,Hashing,easy,49 Mins,https://www.interviewbit.com/problems/2-sum,NS
+Valid Sudoku,Hashing,medium,50 Mins,https://www.interviewbit.com/problems/valid-sudoku,NS
+Copy List,Hashing,medium,55 Mins,https://www.interviewbit.com/problems/copy-list,NS
+Diffk II,Hashing,medium,29 Mins,https://www.interviewbit.com/problems/diffk-ii,NS
+Longest Substring Without Repeat,Hashing,easy,51 Mins,https://www.interviewbit.com/problems/longest-substring-without-repeat,NS
+Diffk,Two,Pointers,medium,https://www.interviewbit.com/problems/diffk,NS
+Intersection Of Sorted Arrays,Two,Pointers,easy,https://www.interviewbit.com/problems/intersection-of-sorted-arrays,NS
+Merge Two Sorted Lists II,Two,Pointers,medium,https://www.interviewbit.com/problems/merge-two-sorted-lists-ii,NS
+Remove Duplicates from Sorted Array,Two,Pointers,easy,https://www.interviewbit.com/problems/remove-duplicates-from-sorted-array,NS
+Sort by Color,Two,Pointers,medium,https://www.interviewbit.com/problems/sort-by-color,NS
+Array 3 Pointers,Two,Pointers,medium,https://www.interviewbit.com/problems/array-3-pointers,NS
+Container With Most Water,Two,Pointers,medium,https://www.interviewbit.com/problems/container-with-most-water,NS
+Remove Duplicates from Sorted Array II,Two,Pointers,medium,https://www.interviewbit.com/problems/remove-duplicates-from-sorted-array-ii,NS
+Remove Element from Array,Two,Pointers,medium,https://www.interviewbit.com/problems/remove-element-from-array,NS
+Implement StrStr,Strings,medium,33 Mins,https://www.interviewbit.com/problems/implement-strstr,NS
+Integer To Roman,Strings,medium,42 Mins,https://www.interviewbit.com/problems/integer-to-roman,NS
+Palindrome String,Strings,easy,30 Mins,https://www.interviewbit.com/problems/palindrome-string,NS
+Longest Common Prefix,Strings,easy,27 Mins,https://www.interviewbit.com/problems/longest-common-prefix,NS
+Roman To Integer,Strings,medium,33 Mins,https://www.interviewbit.com/problems/roman-to-integer,NS
+Length of Last Word,Strings,easy,17 Mins,https://www.interviewbit.com/problems/length-of-last-word,NS
+Multiply Strings,Strings,medium,64 Mins,https://www.interviewbit.com/problems/multiply-strings,NS
+Zigzag String,Strings,medium,52 Mins,https://www.interviewbit.com/problems/zigzag-string,NS
+Atoi,Strings,medium,52 Mins,https://www.interviewbit.com/problems/atoi,NS
+Valid Ip Addresses,Strings,medium,68 Mins,https://www.interviewbit.com/problems/valid-ip-addresses,NS
+Compare Version Numbers,Strings,medium,67 Mins,https://www.interviewbit.com/problems/compare-version-numbers,NS
+Longest Palindromic Substring,Strings,medium,59 Mins,https://www.interviewbit.com/problems/longest-palindromic-substring,NS
+Pretty Json,Strings,medium,64 Mins,https://www.interviewbit.com/problems/pretty-json,NS
+Count And Say,Strings,easy,43 Mins,https://www.interviewbit.com/problems/count-and-say,NS
+Justified Text,Strings,hard,78 Mins,https://www.interviewbit.com/problems/justified-text,NS
+Add Binary Strings,Strings,easy,40 Mins,https://www.interviewbit.com/problems/add-binary-strings,NS
+Reverse the String,Strings,very easy,36 Mins,https://www.interviewbit.com/problems/reverse-the-string,NS
+Reverse Bits,Bit,Manipulation,medium,https://www.interviewbit.com/problems/reverse-bits,NS
+Number of 1 Bits,Bit,Manipulation,easy,https://www.interviewbit.com/problems/number-of-1-bits,NS
+Single Number,Bit,Manipulation,easy,https://www.interviewbit.com/problems/single-number,NS
+Divide Integers,Bit,Manipulation,medium,https://www.interviewbit.com/problems/divide-integers,NS
+Single Number II,Bit,Manipulation,medium,https://www.interviewbit.com/problems/single-number-ii,NS
+Matrix Search,Binary Search,medium,36 Mins,https://www.interviewbit.com/problems/matrix-search,NS
+Median of Array,Binary Search,medium,87 Mins,https://www.interviewbit.com/problems/median-of-array,NS
+Search for a Range,Binary Search,medium,42 Mins,https://www.interviewbit.com/problems/search-for-a-range,NS
+Square Root of Integer,Binary Search,easy,40 Mins,https://www.interviewbit.com/problems/square-root-of-integer,NS
+Implement Power Function,Binary Search,easy,59 Mins,https://www.interviewbit.com/problems/implement-power-function,NS
+Rotated Array,Binary Search,easy,56 Mins,https://www.interviewbit.com/problems/rotated-array,NS
+Rotated Sorted Array Search,Binary Search,medium,56 Mins,https://www.interviewbit.com/problems/rotated-sorted-array-search,NS
+Sorted Insert Position,Binary Search,easy,25 Mins,https://www.interviewbit.com/problems/sorted-insert-position,NS
+Convert Sorted List to Binary Search Tree,Graph Data Structure & Algorithms,medium,44 Mins,https://www.interviewbit.com/problems/convert-sorted-list-to-binary-search-tree,NS
+Level Order,Graph Data Structure & Algorithms,easy,29 Mins,https://www.interviewbit.com/problems/level-order,NS
+Capture Regions on Board,Graph Data Structure & Algorithms,hard,66 Mins,https://www.interviewbit.com/problems/capture-regions-on-board,NS
+Word Ladder II,Graph Data Structure & Algorithms,hard,68 Mins,https://www.interviewbit.com/problems/word-ladder-ii,NS
+Clone Graph,Graph Data Structure & Algorithms,medium,57 Mins,https://www.interviewbit.com/problems/clone-graph,NS
+Word Search Board,Graph Data Structure & Algorithms,hard,59 Mins,https://www.interviewbit.com/problems/word-search-board,NS
+Word Ladder I,Graph Data Structure & Algorithms,hard,69 Mins,https://www.interviewbit.com/problems/word-ladder-i,NS
+Inorder Traversal,Tree,Data Structure,easy,https://www.interviewbit.com/problems/inorder-traversal,NS
+Recover Binary Search Tree,Tree,Data Structure,hard,https://www.interviewbit.com/problems/recover-binary-search-tree,NS
+Inorder Traversal of Cartesian Tree,Tree,Data Structure,medium,https://www.interviewbit.com/problems/inorder-traversal-of-cartesian-tree,NS
+Least Common Ancestor,Tree,Data Structure,medium,https://www.interviewbit.com/problems/least-common-ancestor,NS
+Construct Binary Tree From Inorder And Preorder,Tree,Data Structure,medium,https://www.interviewbit.com/problems/construct-binary-tree-from-inorder-and-preorder,NS
+Flatten Binary Tree to Linked List,Tree,Data Structure,hard,https://www.interviewbit.com/problems/flatten-binary-tree-to-linked-list,NS
+Valid Binary Search Tree,Tree,Data Structure,easy,https://www.interviewbit.com/problems/valid-binary-search-tree,NS
+Preorder Traversal,Tree,Data Structure,medium,https://www.interviewbit.com/problems/preorder-traversal,NS
+Max Depth of Binary Tree,Tree,Data Structure,medium,https://www.interviewbit.com/problems/max-depth-of-binary-tree,NS
+Binary Tree From Inorder And Postorder,Tree,Data Structure,medium,https://www.interviewbit.com/problems/binary-tree-from-inorder-and-postorder,NS
+Balanced Binary Tree,Tree,Data Structure,easy,https://www.interviewbit.com/problems/balanced-binary-tree,NS
+Sorted Array To Balanced BST,Tree,Data Structure,easy,https://www.interviewbit.com/problems/sorted-array-to-balanced-bst,NS
+Sum Root to Leaf Numbers,Tree,Data Structure,medium,https://www.interviewbit.com/problems/sum-root-to-leaf-numbers,NS
+Symmetric Binary Tree,Tree,Data Structure,easy,https://www.interviewbit.com/problems/symmetric-binary-tree,NS
+Postorder Traversal,Tree,Data Structure,easy,https://www.interviewbit.com/problems/postorder-traversal,NS
+Populate Next Right Pointers Tree,Tree,Data Structure,hard,https://www.interviewbit.com/problems/populate-next-right-pointers-tree,NS
+Identical Binary Trees,Tree,Data Structure,easy,https://www.interviewbit.com/problems/identical-binary-trees,NS
+BST Iterator,Tree,Data Structure,hard,https://www.interviewbit.com/problems/bst-iterator,NS
+ZigZag Level Order Traversal BT,Tree,Data Structure,medium,https://www.interviewbit.com/problems/zigzag-level-order-traversal-bt,NS
+Path Sum,Tree,Data Structure,easy,https://www.interviewbit.com/problems/path-sum,NS
+Next Pointer Binary Tree,Tree,Data Structure,easy,https://www.interviewbit.com/problems/next-pointer-binary-tree,NS
+Min Depth of Binary Tree,Tree,Data Structure,medium,https://www.interviewbit.com/problems/min-depth-of-binary-tree,NS
+Root to Leaf Paths With Sum,Tree,Data Structure,medium,https://www.interviewbit.com/problems/root-to-leaf-paths-with-sum,NS
+Merge K Sorted Lists,Heaps And Maps,hard,43 Mins,https://www.interviewbit.com/problems/merge-k-sorted-lists,NS
+LRU Cache,Heaps And Maps,hard,75 Mins,https://www.interviewbit.com/problems/lru-cache,NS
+NESTED_CMPL2,Time,Complexity,easy,https://www.interviewbit.com/problems/nested_cmpl2,NS
+CHOOSE3,Time,Complexity,easy,https://www.interviewbit.com/problems/choose3,NS
+NESTED_CMPL3,Time,Complexity,easy,https://www.interviewbit.com/problems/nested_cmpl3,NS
+CHOOSE4,Time,Complexity,easy,https://www.interviewbit.com/problems/choose4,NS
+AMORTIZED1,Time,Complexity,easy,https://www.interviewbit.com/problems/amortized1,NS
+CHOOSE2,Time,Complexity,easy,https://www.interviewbit.com/problems/choose2,NS
+GCD_CMPL,Time,Complexity,easy,https://www.interviewbit.com/problems/gcd_cmpl,NS
+LOOP_CMPL2,Time,Complexity,easy,https://www.interviewbit.com/problems/loop_cmpl2,NS
+WHILE_CMPL,Time,Complexity,easy,https://www.interviewbit.com/problems/while_cmpl,NS
+CHOOSE1,Time,Complexity,easy,https://www.interviewbit.com/problems/choose1,NS
+LOOP_CMPL,Time,Complexity,easy,https://www.interviewbit.com/problems/loop_cmpl,NS
+NESTED_CMPL,Time,Complexity,easy,https://www.interviewbit.com/problems/nested_cmpl,NS
+Spider's Web,Puzzles,easy,3 Mins,https://www.interviewbit.com/problems/spider's-web,NS
+INVERSIONS,Heaps And Maps,easy,63 Mins,https://www.interviewbit.com/problems/inversions,NS
+Ratio of Boys and Girls,Puzzles,easy,15 Mins,https://www.interviewbit.com/problems/ratio-of-boys-and-girls,NS
+Max Non Negative SubArray,Arrays,easy,57 Mins,https://www.interviewbit.com/problems/max-non-negative-subarray,NS
+Wave Array,Arrays,easy,22 Mins,https://www.interviewbit.com/problems/wave-array,NS
+Rearrange Array,Math,medium,49 Mins,https://www.interviewbit.com/problems/rearrange-array,NS
+Greatest Common Divisor,Math,medium,10 Mins,https://www.interviewbit.com/problems/greatest-common-divisor,NS
+Allocate Books,Binary Search,medium,68 Mins,https://www.interviewbit.com/problems/allocate-books,NS
+Painter's Partition Problem,Binary Search,medium,81 Mins,https://www.interviewbit.com/problems/painter's-partition-problem,NS
+Power of 2,Strings,medium,63 Mins,https://www.interviewbit.com/problems/power-of-2,NS
+Max Continuous Series of 1s,Two,Pointers,medium,https://www.interviewbit.com/problems/max-continuous-series-of-1s,NS
+Redundant Braces,Stacks And Queues,easy,42 Mins,https://www.interviewbit.com/problems/redundant-braces,NS
+Colorful Number,Hashing,easy,44 Mins,https://www.interviewbit.com/problems/colorful-number,NS
+Order of People Heights,Tree,Data Structure,hard,https://www.interviewbit.com/problems/order-of-people-heights,NS
+Shortest Unique Prefix,Tree,Data Structure,medium,https://www.interviewbit.com/problems/shortest-unique-prefix,NS
+Max Sum Without Adjacent Elements,Dynamic Programming,medium,58 Mins,https://www.interviewbit.com/problems/max-sum-without-adjacent-elements,NS
+Repeating Sub-Sequence,Dynamic Programming,medium,64 Mins,https://www.interviewbit.com/problems/repeating-sub-sequence,NS
+Evaluate Expression To True,Dynamic Programming,medium,70 Mins,https://www.interviewbit.com/problems/evaluate-expression-to-true,NS
+Coins in a Line,Dynamic Programming,medium,63 Mins,https://www.interviewbit.com/problems/coins-in-a-line,NS
+Seats,Greedy Algorithm,medium,73 Mins,https://www.interviewbit.com/problems/seats,NS
+Sum Of Fibonacci Numbers,Graph Data Structure & Algorithms,medium,52 Mins,https://www.interviewbit.com/problems/sum-of-fibonacci-numbers,NS
+Stepping Numbers,Graph Data Structure & Algorithms,medium,60 Mins,https://www.interviewbit.com/problems/stepping-numbers,NS
+REC_CMPL1,Time,Complexity,easy,https://www.interviewbit.com/problems/rec_cmpl1,NS
+REC_CMPL2,Time,Complexity,easy,https://www.interviewbit.com/problems/rec_cmpl2,NS
+REC_CMPL3,Time,Complexity,easy,https://www.interviewbit.com/problems/rec_cmpl3,NS
+Equal,Hashing,medium,71 Mins,https://www.interviewbit.com/problems/equal,NS
+Highest Product,Greedy Algorithm,easy,29 Mins,https://www.interviewbit.com/problems/highest-product,NS
+Assign Mice to Holes,Greedy Algorithm,easy,21 Mins,https://www.interviewbit.com/problems/assign-mice-to-holes,NS
+Black Shapes,Graph Data Structure & Algorithms,medium,48 Mins,https://www.interviewbit.com/problems/black-shapes,NS
+Knight On Chess Board,Graph Data Structure & Algorithms,medium,67 Mins,https://www.interviewbit.com/problems/knight-on-chess-board,NS
+Anti Diagonals,Arrays,easy,41 Mins,https://www.interviewbit.com/problems/anti-diagonals,NS
+Hotel Bookings Possible,Arrays,medium,66 Mins,https://www.interviewbit.com/problems/hotel-bookings-possible,NS
+Min Steps in Infinite Grid,Arrays,easy,37 Mins,https://www.interviewbit.com/problems/min-steps-in-infinite-grid,NS
+Power Of Two Integers,Math,medium,39 Mins,https://www.interviewbit.com/problems/power-of-two-integers,NS
+Prime Sum,Math,easy,43 Mins,https://www.interviewbit.com/problems/prime-sum,NS
+Largest Continuous Sequence Zero Sum,Hashing,medium,68 Mins,https://www.interviewbit.com/problems/largest-continuous-sequence-zero-sum,NS
+Arrange II,Dynamic Programming,medium,72 Mins,https://www.interviewbit.com/problems/arrange-ii,NS
+Equal Average Partition,Dynamic Programming,medium,72 Mins,https://www.interviewbit.com/problems/equal-average-partition,NS
+Sorted Permutation Rank,Math,medium,78 Mins,https://www.interviewbit.com/problems/sorted-permutation-rank,NS
+Sorted Permutation Rank with Repeats,Math,hard,67 Mins,https://www.interviewbit.com/problems/sorted-permutation-rank-with-repeats,NS
+Coin Sum Infinite,Dynamic Programming,medium,64 Mins,https://www.interviewbit.com/problems/coin-sum-infinite,NS
+Bulbs,Greedy Algorithm,easy,23 Mins,https://www.interviewbit.com/problems/bulbs,NS
+Flip,Arrays,easy,78 Mins,https://www.interviewbit.com/problems/flip,NS
+Different Bits Sum Pairwise,Bit,Manipulation,medium,https://www.interviewbit.com/problems/different-bits-sum-pairwise,NS
+Palindrome List,Linked Lists,medium,47 Mins,https://www.interviewbit.com/problems/palindrome-list,NS
+Nearest Smaller Element,Stacks And Queues,easy,41 Mins,https://www.interviewbit.com/problems/nearest-smaller-element,NS
+Distinct Numbers in Window,Heaps And Maps,medium,39 Mins,https://www.interviewbit.com/problems/distinct-numbers-in-window,NS
+Invert the Binary Tree,Tree,Data Structure,easy,https://www.interviewbit.com/problems/invert-the-binary-tree,NS
+Kth Smallest Element In Tree,Tree,Data Structure,medium,https://www.interviewbit.com/problems/kth-smallest-element-in-tree,NS
+2-Sum Binary Tree,Tree,Data Structure,hard,https://www.interviewbit.com/problems/2-sum-binary-tree,NS
+Rod Cutting,Dynamic Programming,medium,73 Mins,https://www.interviewbit.com/problems/rod-cutting,NS
+Smallest Multiple With 0 and 1,Graph Data Structure & Algorithms,medium,75 Mins,https://www.interviewbit.com/problems/smallest-multiple-with-0-and-1,NS
+Intersecting Chords in a Circle,Dynamic Programming,medium,69 Mins,https://www.interviewbit.com/problems/intersecting-chords-in-a-circle,NS
+Count Permutations of BST,Dynamic Programming,medium,62 Mins,https://www.interviewbit.com/problems/count-permutations-of-bst,NS
+Find Permutation,Arrays,medium,56 Mins,https://www.interviewbit.com/problems/find-permutation,NS
+Maximum Absolute Difference,Arrays,medium,65 Mins,https://www.interviewbit.com/problems/maximum-absolute-difference,NS
+Matrix Median,Binary Search,medium,77 Mins,https://www.interviewbit.com/problems/matrix-median,NS
+Largest Coprime Divisor,Math,medium,49 Mins,https://www.interviewbit.com/problems/largest-coprime-divisor,NS
+Maximum Unsorted Subarray,Arrays,medium,68 Mins,https://www.interviewbit.com/problems/maximum-unsorted-subarray,NS
+Counting Triangles,Two,Pointers,medium,https://www.interviewbit.com/problems/counting-triangles,NS
+Queen Attack,Dynamic Programming,medium,60 Mins,https://www.interviewbit.com/problems/queen-attack,NS
+Magician and Chocolates,Heaps And Maps,medium,42 Mins,https://www.interviewbit.com/problems/magician-and-chocolates,NS
+Minimum Characters required to make a String,Palindromic,Strings,medium,https://www.interviewbit.com/problems/minimum-characters-required-to-make-a-string,NS
+Longest Arithmetic Progression,Dynamic Programming,medium,75 Mins,https://www.interviewbit.com/problems/longest-arithmetic-progression,NS
+Ways to form Max Heap,Heaps And Maps,medium,75 Mins,https://www.interviewbit.com/problems/ways-to-form-max-heap,NS
+Sum of pairwise Hamming Distance,Math,medium,66 Mins,https://www.interviewbit.com/problems/sum-of-pairwise-hamming-distance,NS
+Sub Matrices with sum Zero,Dynamic Programming,medium,74 Mins,https://www.interviewbit.com/problems/sub-matrices-with-sum-zero,NS
+N digit numbers with digit sum S,Dynamic Programming,medium,72 Mins,https://www.interviewbit.com/problems/n-digit-numbers-with-digit-sum-s,NS
+Largest Distance between nodes of a Tree,Graph Data Structure & Algorithms,medium,78 Mins,https://www.interviewbit.com/problems/largest-distance-between-nodes-of-a-tree,NS
+Length of Longest Subsequence,Dynamic Programming,medium,65 Mins,https://www.interviewbit.com/problems/length-of-longest-subsequence,NS
+Shortest common superstring,Dynamic Programming,medium,59 Mins,https://www.interviewbit.com/problems/shortest-common-superstring,NS
+Noble Integer,Arrays,easy,43 Mins,https://www.interviewbit.com/problems/noble-integer,NS
+Flip Array,Dynamic Programming,medium,79 Mins,https://www.interviewbit.com/problems/flip-array,NS
+Triplets with Sum between given range,Arrays,medium,76 Mins,https://www.interviewbit.com/problems/triplets-with-sum-between-given-range,NS
+Smallest sequence with given Primes,Dynamic Programming,medium,66 Mins,https://www.interviewbit.com/problems/smallest-sequence-with-given-primes,NS
+Commutable Islands,Graph Data Structure & Algorithms,medium,77 Mins,https://www.interviewbit.com/problems/commutable-islands,NS
+Possibility of finishing all courses given,pre-requisites,Graph Data Structure & Algorithms,medium,https://www.interviewbit.com/problems/possibility-of-finishing-all-courses-given,NS
+Vertical Order traversal of Binary Tree,Tree,Data Structure,easy,https://www.interviewbit.com/problems/vertical-order-traversal-of-binary-tree,NS
+Numbers of length N and value less than K,Math,easy,89 Mins,https://www.interviewbit.com/problems/numbers-of-length-n-and-value-less-than-k,NS
+K reverse linked list,Linked Lists,medium,60 Mins,https://www.interviewbit.com/problems/k-reverse-linked-list,NS
+Ways to color a 3xN Board,Dynamic Programming,medium,63 Mins,https://www.interviewbit.com/problems/ways-to-color-a-3xn-board,NS
+FizzBuzz,Math,very easy,12 Mins,https://www.interviewbit.com/problems/fizzbuzz,NS
+Min XOR value,Bit,Manipulation,medium,https://www.interviewbit.com/problems/min-xor-value,NS
+Tushar's Birthday Bombs,Dynamic Programming,medium,78 Mins,https://www.interviewbit.com/problems/tushar's-birthday-bombs,NS
+Tushar's Birthday Party,Dynamic Programming,medium,71 Mins,https://www.interviewbit.com/problems/tushar's-birthday-party,NS
+Kth Manhattan Distance Neighbourhood,Dynamic Programming,medium,61 Mins,https://www.interviewbit.com/problems/kth-manhattan-distance-neighbourhood,NS
+N max pair combinations,Heaps And Maps,medium,78 Mins,https://www.interviewbit.com/problems/n-max-pair-combinations,NS
+Valid Path,Graph Data Structure & Algorithms,medium,84 Mins,https://www.interviewbit.com/problems/valid-path,NS
+Minimize the absolute difference,Two,Pointers,medium,https://www.interviewbit.com/problems/minimize-the-absolute-difference,NS
+Largest area of rectangle with permutations,Dynamic Programming,medium,75 Mins,https://www.interviewbit.com/problems/largest-area-of-rectangle-with-permutations,NS
+Hotel Reviews,Tree,Data Structure,medium,https://www.interviewbit.com/problems/hotel-reviews,NS
+Good Graph,Graph Data Structure & Algorithms,medium,62 Mins,https://www.interviewbit.com/problems/good-graph,NS
+Kingdom War,Dynamic Programming,medium,59 Mins,https://www.interviewbit.com/problems/kingdom-war,NS
+Convert the amount in number to words,Strings,medium,39 Mins,https://www.interviewbit.com/problems/convert-the-amount-in-number-to-words,NS
+MAXSPPROD,Stacks And Queues,medium,88 Mins,https://www.interviewbit.com/problems/maxspprod,NS
+Lines in a given range,Basic Shell Commands,easy,28 Mins,https://www.interviewbit.com/problems/lines-in-a-given-range,NS
+Valid phone number,Basic Shell Commands,medium,21 Mins,https://www.interviewbit.com/problems/valid-phone-number,NS
+Find Fibonacci,Basic Shell Commands,easy,43 Mins,https://www.interviewbit.com/problems/find-fibonacci,NS
+Swap Forward And Backward Slash,Regex and Functions,medium,13 Mins,https://www.interviewbit.com/problems/swap-forward-and-backward-slash,NS
+Convert Integer To Roman Number,Regex and Functions,medium,31 Mins,https://www.interviewbit.com/problems/convert-integer-to-roman-number,NS
+Transform CSV,Basic Shell Commands,medium,19 Mins,https://www.interviewbit.com/problems/transform-csv,NS
+Sort by Frequency,Regex and Functions,medium,31 Mins,https://www.interviewbit.com/problems/sort-by-frequency,NS
+Valid Email Address,Regex and Functions,medium,30 Mins,https://www.interviewbit.com/problems/valid-email-address,NS
+Remove Punctuations,Basic Shell Commands,medium,12 Mins,https://www.interviewbit.com/problems/remove-punctuations,NS
+Grep,Basic Shell Commands,medium,17 Mins,https://www.interviewbit.com/problems/grep,NS
+Grep Log,Basic Shell Commands,medium,6 Mins,https://www.interviewbit.com/problems/grep-log,NS
+Tenth Line,Basic Shell Commands,medium,5 Mins,https://www.interviewbit.com/problems/tenth-line,NS
+Amazing Subarrays,Strings,easy,26 Mins,https://www.interviewbit.com/problems/amazing-subarrays,NS
+Partitions,Arrays,medium,74 Mins,https://www.interviewbit.com/problems/partitions,NS
+Neutral Reviewers,SQL,Programming,easy,https://www.interviewbit.com/problems/neutral-reviewers,NS
+Movie Character,SQL,Programming,medium,https://www.interviewbit.com/problems/movie-character,NS
+Short Films,SQL,Programming,medium,https://www.interviewbit.com/problems/short-films,NS
+Actors and their Movies,SQL,Programming,medium,https://www.interviewbit.com/problems/actors-and-their-movies,NS
+Stringoholics,Strings,hard,65 Mins,https://www.interviewbit.com/problems/stringoholics,NS
+Simple Queries,Binary Search,hard,64 Mins,https://www.interviewbit.com/problems/simple-queries,NS
+City Tour,Math,hard,61 Mins,https://www.interviewbit.com/problems/city-tour,NS
+Minimum Absolute Difference,Time,Complexity,easy,https://www.interviewbit.com/problems/minimum-absolute-difference,NS
+Multiple left rotations of the array,Arrays,easy,23 Mins,https://www.interviewbit.com/problems/multiple-left-rotations-of-the-array,NS
+Find a peak element,Binary Search,medium,24 Mins,https://www.interviewbit.com/problems/find-a-peak-element,NS
+First non-repeating character in a stream of,characters,Stacks And Queues,medium,https://www.interviewbit.com/problems/first-non-repeating-character-in-a-stream-of,NS
+Longest Common Subsequence,Dynamic Programming,easy,42 Mins,https://www.interviewbit.com/problems/longest-common-subsequence,NS
+Longest Palindromic Subsequence,Dynamic Programming,medium,41 Mins,https://www.interviewbit.com/problems/longest-palindromic-subsequence,NS
+Best Time to Buy and Sell Stock atmost B times,Dynamic Programming,medium,60 Mins,https://www.interviewbit.com/problems/best-time-to-buy-and-sell-stock-atmost-b-times,NS
+Meeting rooms,Greedy Algorithm,medium,58 Mins,https://www.interviewbit.com/problems/meeting-rooms,NS
+Right view of Binary tree,Tree,Data Structure,medium,https://www.interviewbit.com/problems/right-view-of-binary-tree,NS
+Valid BST from Preorder,Tree,Data Structure,medium,https://www.interviewbit.com/problems/valid-bst-from-preorder,NS
+Diagonal Traversal,Tree,Data Structure,medium,https://www.interviewbit.com/problems/diagonal-traversal,NS
+Maximum Sum Combinations,Heaps And Maps,medium,55 Mins,https://www.interviewbit.com/problems/maximum-sum-combinations,NS
+Maximum Path in Triangle,Dynamic Programming,easy,32 Mins,https://www.interviewbit.com/problems/maximum-path-in-triangle,NS
+Cousins in Binary Tree,Tree,Data Structure,medium,https://www.interviewbit.com/problems/cousins-in-binary-tree,NS
+Reverse Alternate K Nodes,Linked Lists,medium,52 Mins,https://www.interviewbit.com/problems/reverse-alternate-k-nodes,NS
+Kth Node From Middle,Linked Lists,easy,29 Mins,https://www.interviewbit.com/problems/kth-node-from-middle,NS
+Pair With Given Difference,Two,Pointers,easy,https://www.interviewbit.com/problems/pair-with-given-difference,NS
+Path to Given Node,Tree,Data Structure,easy,https://www.interviewbit.com/problems/path-to-given-node,NS
+Count Total Set Bits,Bit,Manipulation,hard,https://www.interviewbit.com/problems/count-total-set-bits,NS
+Sort Binary Linked List,Linked Lists,easy,33 Mins,https://www.interviewbit.com/problems/sort-binary-linked-list,NS
+Cycle in Directed Graph,Graph Data Structure & Algorithms,easy,55 Mins,https://www.interviewbit.com/problems/cycle-in-directed-graph,NS
+K Largest Elements,Heaps And Maps,easy,20 Mins,https://www.interviewbit.com/problems/k-largest-elements,NS
+Palindromic Binary Representation,Bit,Manipulation,hard,https://www.interviewbit.com/problems/palindromic-binary-representation,NS
+Remove Half Nodes,Tree,Data Structure,easy,https://www.interviewbit.com/problems/remove-half-nodes,NS
+Cycle in Undirected Graph,Graph Data Structure & Algorithms,easy,52 Mins,https://www.interviewbit.com/problems/cycle-in-undirected-graph,NS
+Next Similar Number,Math,medium,55 Mins,https://www.interviewbit.com/problems/next-similar-number,NS
+Convert to Palindrome,Strings,easy,39 Mins,https://www.interviewbit.com/problems/convert-to-palindrome,NS
+0-1 Knapsack,Dynamic Programming,medium,48 Mins,https://www.interviewbit.com/problems/0-1-knapsack,NS
+Chain of Pairs,Dynamic Programming,medium,42 Mins,https://www.interviewbit.com/problems/chain-of-pairs,NS
+Merge two Binary Tree,Tree,Data Structure,easy,https://www.interviewbit.com/problems/merge-two-binary-tree,NS
+Maximum Ones After Modification,Two,Pointers,medium,https://www.interviewbit.com/problems/maximum-ones-after-modification,NS
+Is Rectangle?,Math,easy,11 Mins,https://www.interviewbit.com/problems/is-rectangle?,NS
+Snake Ladder Problem!,Graph Data Structure & Algorithms,medium,65 Mins,https://www.interviewbit.com/problems/snake-ladder-problem!,NS
+Region in BinaryMatrix,Graph Data Structure & Algorithms,easy,44 Mins,https://www.interviewbit.com/problems/region-in-binarymatrix,NS
+Balanced Parantheses!,Stacks And Queues,easy,15 Mins,https://www.interviewbit.com/problems/balanced-parantheses!,NS
+Pairs With Given Xor,Hashing,medium,26 Mins,https://www.interviewbit.com/problems/pairs-with-given-xor,NS
+Maximum Size Square Sub-matrix,Dynamic Programming,medium,42 Mins,https://www.interviewbit.com/problems/maximum-size-square-sub-matrix,NS
+Min Cost Path,Graph Data Structure & Algorithms,hard,67 Mins,https://www.interviewbit.com/problems/min-cost-path,NS
+Minimum Lights to Activate,Arrays,easy,75 Mins,https://www.interviewbit.com/problems/minimum-lights-to-activate,NS
+Two teams?,Graph Data Structure & Algorithms,medium,53 Mins,https://www.interviewbit.com/problems/two-teams?,NS
+Even Reverse,Linked Lists,medium,44 Mins,https://www.interviewbit.com/problems/even-reverse,NS
+Check Palindrome!,Hashing,easy,17 Mins,https://www.interviewbit.com/problems/check-palindrome!,NS
+Vowel and Consonant Substrings!,Strings,easy,41 Mins,https://www.interviewbit.com/problems/vowel-and-consonant-substrings!,NS
+Minimum Appends for Palindrome!,Strings,medium,44 Mins,https://www.interviewbit.com/problems/minimum-appends-for-palindrome!,NS
+Maximal String,Backtracking,medium,63 Mins,https://www.interviewbit.com/problems/maximal-string,NS
+An Increment Problem,Hashing,medium,49 Mins,https://www.interviewbit.com/problems/an-increment-problem,NS
+Large Factorial,Arrays,medium,46 Mins,https://www.interviewbit.com/problems/large-factorial,NS
+Remove Consecutive Characters,Strings,easy,41 Mins,https://www.interviewbit.com/problems/remove-consecutive-characters,NS
+Permutation Swaps!,Graph Data Structure & Algorithms,medium,56 Mins,https://www.interviewbit.com/problems/permutation-swaps!,NS
+Delete Edge!,Graph Data Structure & Algorithms,medium,65 Mins,https://www.interviewbit.com/problems/delete-edge!,NS
+Maximum Sum Triplet,Arrays,medium,81 Mins,https://www.interviewbit.com/problems/maximum-sum-triplet,NS
+Find Nth Fibonacci,Math,hard,52 Mins,https://www.interviewbit.com/problems/find-nth-fibonacci,NS
+Maximum Sum Square SubMatrix,Arrays,medium,56 Mins,https://www.interviewbit.com/problems/maximum-sum-square-submatrix,NS
+Maximum Area of Triangle!,Arrays,medium,56 Mins,https://www.interviewbit.com/problems/maximum-area-of-triangle!,NS
+Profit Maximisation,Heaps And Maps,easy,20 Mins,https://www.interviewbit.com/problems/profit-maximisation,NS
+Perfect Peak of Array,Arrays,easy,49 Mins,https://www.interviewbit.com/problems/perfect-peak-of-array,NS
+Subarray with given XOR,Hashing,medium,53 Mins,https://www.interviewbit.com/problems/subarray-with-given-xor,NS
+Two out of Three,Hashing,medium,33 Mins,https://www.interviewbit.com/problems/two-out-of-three,NS
+Subarray with B odd numbers,Hashing,medium,50 Mins,https://www.interviewbit.com/problems/subarray-with-b-odd-numbers,NS
+Tiling With Dominoes,Dynamic Programming,medium,59 Mins,https://www.interviewbit.com/problems/tiling-with-dominoes,NS
+Reverse Level Order,Tree,Data Structure,medium,https://www.interviewbit.com/problems/reverse-level-order,NS
+Smaller or equal elements,Binary Search,very easy,32 Mins,https://www.interviewbit.com/problems/smaller-or-equal-elements,NS
+WoodCutting Made Easy!,Binary Search,medium,57 Mins,https://www.interviewbit.com/problems/woodcutting-made-easy!,NS
+Useful Extra Edges,Graph Data Structure & Algorithms,hard,63 Mins,https://www.interviewbit.com/problems/useful-extra-edges,NS
+Largest Permutation,Greedy Algorithm,easy,50 Mins,https://www.interviewbit.com/problems/largest-permutation,NS
+Increasing Path in Matrix,Dynamic Programming,medium,45 Mins,https://www.interviewbit.com/problems/increasing-path-in-matrix,NS
+Minimum Parantheses!,Strings,easy,25 Mins,https://www.interviewbit.com/problems/minimum-parantheses!,NS
+Leaders in an array,Arrays,easy,19 Mins,https://www.interviewbit.com/problems/leaders-in-an-array,NS
+Trailing Zeroes,Bit,Manipulation,easy,https://www.interviewbit.com/problems/trailing-zeroes,NS
+Maximum Edge Removal,Tree,Data Structure,medium,https://www.interviewbit.com/problems/maximum-edge-removal,NS
+Search in Bitonic Array!,Binary Search,easy,52 Mins,https://www.interviewbit.com/problems/search-in-bitonic-array!,NS
+Egg Drop Problem!,Dynamic Programming,hard,51 Mins,https://www.interviewbit.com/problems/egg-drop-problem!,NS
+Step by Step,Math,easy,50 Mins,https://www.interviewbit.com/problems/step-by-step,NS
+Next Smallest Palindrome!,Math,hard,59 Mins,https://www.interviewbit.com/problems/next-smallest-palindrome!,NS
+Distribute in Circle!,Math,easy,21 Mins,https://www.interviewbit.com/problems/distribute-in-circle!,NS
+Total Moves For Bishop!,Math,very easy,30 Mins,https://www.interviewbit.com/problems/total-moves-for-bishop!,NS
+Subarray with equal occurences!,Hashing,medium,33 Mins,https://www.interviewbit.com/problems/subarray-with-equal-occurences!,NS
+Paint House!,Dynamic Programming,medium,40 Mins,https://www.interviewbit.com/problems/paint-house!,NS
+Maximum level sum,Tree,Data Structure,easy,https://www.interviewbit.com/problems/maximum-level-sum,NS
+Pick from both sides!,Arrays,very easy,56 Mins,https://www.interviewbit.com/problems/pick-from-both-sides!,NS
+Merge K sorted arrays!,Heaps And Maps,medium,28 Mins,https://www.interviewbit.com/problems/merge-k-sorted-arrays!,NS
+Minimum Difference Subsets!,Dynamic Programming,medium,49 Mins,https://www.interviewbit.com/problems/minimum-difference-subsets!,NS
+Sort array with squares!,Arrays,easy,31 Mins,https://www.interviewbit.com/problems/sort-array-with-squares!,NS
+Counting Subarrays!,Two,Pointers,medium,https://www.interviewbit.com/problems/counting-subarrays!,NS
+Subset Sum Problem!,Dynamic Programming,medium,44 Mins,https://www.interviewbit.com/problems/subset-sum-problem!,NS
+XOR-ing the Subarrays!,Bit,Manipulation,medium,https://www.interviewbit.com/problems/xor-ing-the-subarrays!,NS
+Longest Subarray Length,Hashing,medium,54 Mins,https://www.interviewbit.com/problems/longest-subarray-length,NS
+First Repeating element,Hashing,easy,21 Mins,https://www.interviewbit.com/problems/first-repeating-element,NS
+Merge elements,Dynamic Programming,hard,59 Mins,https://www.interviewbit.com/problems/merge-elements,NS
+Balance Array,Arrays,easy,61 Mins,https://www.interviewbit.com/problems/balance-array,NS
+Max Min,Arrays,easy,17 Mins,https://www.interviewbit.com/problems/max-min,NS
+Subarrays with distinct integers!,Two,Pointers,medium,https://www.interviewbit.com/problems/subarrays-with-distinct-integers!,NS
+Path in Directed Graph,Graph Data Structure & Algorithms,easy,40 Mins,https://www.interviewbit.com/problems/path-in-directed-graph,NS
+Path with good nodes!,Graph Data Structure & Algorithms,easy,58 Mins,https://www.interviewbit.com/problems/path-with-good-nodes!,NS
+Xor Between Two Arrays!,Tree,Data Structure,easy,https://www.interviewbit.com/problems/xor-between-two-arrays!,NS
+Max edge queries!,Dynamic Programming,medium,56 Mins,https://www.interviewbit.com/problems/max-edge-queries!,NS
+Disjoint Intervals,Greedy Algorithm,medium,44 Mins,https://www.interviewbit.com/problems/disjoint-intervals,NS
+Water Flow,Graph Data Structure & Algorithms,medium,70 Mins,https://www.interviewbit.com/problems/water-flow,NS
+Burn a Tree,Tree,Data Structure,medium,https://www.interviewbit.com/problems/burn-a-tree,NS
+Collect Resources,Dynamic Programming,medium,59 Mins,https://www.interviewbit.com/problems/collect-resources,NS
+Red Zone,Binary Search,hard,49 Mins,https://www.interviewbit.com/problems/red-zone,NS
+Nodes at Distance K,Tree,Data Structure,medium,https://www.interviewbit.com/problems/nodes-at-distance-k,NS
+Reorder Data in Log Files,Arrays,medium,42 Mins,https://www.interviewbit.com/problems/reorder-data-in-log-files,NS
+K-th Permutation,Math,medium,59 Mins,https://www.interviewbit.com/problems/k-th-permutation,NS
+Vertical Sum of a Binary Tree,Tree,Data Structure,medium,https://www.interviewbit.com/problems/vertical-sum-of-a-binary-tree,NS
+Serialize,Strings,medium,12 Mins,https://www.interviewbit.com/problems/serialize,NS
+Deserialize,Strings,medium,18 Mins,https://www.interviewbit.com/problems/deserialize,NS
+String And Its Frequency,Strings,medium,18 Mins,https://www.interviewbit.com/problems/string-and-its-frequency,NS
+Move Zeroes,Arrays,medium,25 Mins,https://www.interviewbit.com/problems/move-zeroes,NS
+Make equal elements Array,Arrays,medium,30 Mins,https://www.interviewbit.com/problems/make-equal-elements-array,NS
+Segregate 0s and 1s in an array,Arrays,medium,14 Mins,https://www.interviewbit.com/problems/segregate-0s-and-1s-in-an-array,NS
+Connect Ropes,Heaps And Maps,medium,14 Mins,https://www.interviewbit.com/problems/connect-ropes,NS
+Capacity To Ship Packages Within B Days,Binary Search,medium,35 Mins,https://www.interviewbit.com/problems/capacity-to-ship-packages-within-b-days,NS
+Bulls and Cows,Strings,medium,30 Mins,https://www.interviewbit.com/problems/bulls-and-cows,NS
+Construct BST from Preorder,Tree,Data Structure,medium,https://www.interviewbit.com/problems/construct-bst-from-preorder,NS
+Covered / Uncovered Nodes,Tree,Data Structure,medium,https://www.interviewbit.com/problems/covered-/-uncovered-nodes,NS
+Self Permutation,Strings,medium,11 Mins,https://www.interviewbit.com/problems/self-permutation,NS
+Potions,Dynamic Programming,medium,55 Mins,https://www.interviewbit.com/problems/potions,NS
+Last Node in a Complete Binary Tree,Tree,Data Structure,medium,https://www.interviewbit.com/problems/last-node-in-a-complete-binary-tree,NS
+Array Sum,Arrays,medium,32 Mins,https://www.interviewbit.com/problems/array-sum,NS
+Mother Vertex,Graph Data Structure & Algorithms,medium,52 Mins,https://www.interviewbit.com/problems/mother-vertex,NS
+Dice Throw,Dynamic Programming,medium,50 Mins,https://www.interviewbit.com/problems/dice-throw,NS
+Set Intersection,Arrays,medium,62 Mins,https://www.interviewbit.com/problems/set-intersection,NS
+Find Variance,Descriptive Statistics,very easy,31 Mins,https://www.interviewbit.com/problems/find-variance,NS
+Distribution Percentage,Probability,easy,4 Mins,https://www.interviewbit.com/problems/distribution-percentage,NS
+Median over mean,Descriptive Statistics,easy,2 Mins,https://www.interviewbit.com/problems/median-over-mean,NS
+Probability of Raining,Probability,easy,9 Mins,https://www.interviewbit.com/problems/probability-of-raining,NS
+How can he win?,Probability,easy,6 Mins,https://www.interviewbit.com/problems/how-can-he-win?,NS
+White Marble Probability,Probability,easy,3 Mins,https://www.interviewbit.com/problems/white-marble-probability,NS
+Boy or girl paradox,Probability,easy,4 Mins,https://www.interviewbit.com/problems/boy-or-girl-paradox,NS
+Positive Test Probability,Probability,easy,9 Mins,https://www.interviewbit.com/problems/positive-test-probability,NS
+Divisible by 60,Math,medium,23 Mins,https://www.interviewbit.com/problems/divisible-by-60,NS
+Powerful Divisors,Math,hard,49 Mins,https://www.interviewbit.com/problems/powerful-divisors,NS
+Path in Matrix,Graph Data Structure & Algorithms,medium,28 Mins,https://www.interviewbit.com/problems/path-in-matrix,NS
+Consecutive Parent - Child,Tree,Data Structure,medium,https://www.interviewbit.com/problems/consecutive-parent---child,NS
+Addition without Summation,Math,medium,20 Mins,https://www.interviewbit.com/problems/addition-without-summation,NS
+Hotel Service,Stacks And Queues,medium,45 Mins,https://www.interviewbit.com/problems/hotel-service,NS
+Product probability,Probability,easy,9 Mins,https://www.interviewbit.com/problems/product-probability,NS
+How much did he score?,Descriptive Statistics,easy,2 Mins,https://www.interviewbit.com/problems/how-much-did-he-score?,NS
+Difference,Descriptive Statistics,easy,0 Mins,https://www.interviewbit.com/problems/difference,NS
+What p-value represents?,Inferential Statistics,easy,2 Mins,https://www.interviewbit.com/problems/what-p-value-represents?,NS
+Choose for the statement,Inferential Statistics,easy,3 Mins,https://www.interviewbit.com/problems/choose-for-the-statement,NS
+Which library it is?,Data,Analysis,easy,https://www.interviewbit.com/problems/which-library-it-is?,NS
+What does the code do?,Data,Analysis,easy,https://www.interviewbit.com/problems/what-does-the-code-do?,NS
+2d graphics,Data,Analysis,easy,https://www.interviewbit.com/problems/2d-graphics,NS
+Suitable plot type,Data,Analysis,easy,https://www.interviewbit.com/problems/suitable-plot-type,NS
+Retrieval protocol,Data,Analysis,easy,https://www.interviewbit.com/problems/retrieval-protocol,NS
+2-way communication,Data,Analysis,easy,https://www.interviewbit.com/problems/2-way-communication,NS
+Search engine process,Data,Analysis,easy,https://www.interviewbit.com/problems/search-engine-process,NS
+What does the code print?,Data,Analysis,easy,https://www.interviewbit.com/problems/what-does-the-code-print?,NS
+Correlation-analysis,Inferential Statistics,easy,1 Mins,https://www.interviewbit.com/problems/correlation-analysis,NS
+Number of random samples,Inferential Statistics,easy,2 Mins,https://www.interviewbit.com/problems/number-of-random-samples,NS
+CLT,Inferential Statistics,easy,1 Mins,https://www.interviewbit.com/problems/clt,NS
+Team Selection,Inferential Statistics,easy,0 Mins,https://www.interviewbit.com/problems/team-selection,NS
+Chances to be spam,Probability,easy,8 Mins,https://www.interviewbit.com/problems/chances-to-be-spam,NS
+Probability of shares of a company,Probability,easy,8 Mins,https://www.interviewbit.com/problems/probability-of-shares-of-a-company,NS
+Normal random variable,Inferential Statistics,easy,1 Mins,https://www.interviewbit.com/problems/normal-random-variable,NS
+Standard deviation,Probability,easy,2 Mins,https://www.interviewbit.com/problems/standard-deviation,NS
+Is it a queen?,Probability,easy,4 Mins,https://www.interviewbit.com/problems/is-it-a-queen?,NS
+All Possible Combinations,Backtracking,medium,25 Mins,https://www.interviewbit.com/problems/all-possible-combinations,NS
+Occurence of Each Number,Arrays,medium,23 Mins,https://www.interviewbit.com/problems/occurence-of-each-number,NS
+Highest Score,Math,medium,26 Mins,https://www.interviewbit.com/problems/highest-score,NS
+File Search,Graph Data Structure & Algorithms,medium,20 Mins,https://www.interviewbit.com/problems/file-search,NS
+Covid probability (bayes),Probability,easy,16 Mins,https://www.interviewbit.com/problems/covid-probability-(bayes),NS
+Random variable's probability,Probability,easy,5 Mins,https://www.interviewbit.com/problems/random-variable's-probability,NS
+Univariate,Descriptive Statistics,easy,1 Mins,https://www.interviewbit.com/problems/univariate,NS
+Mean of sampling distribution,Inferential Statistics,easy,2 Mins,https://www.interviewbit.com/problems/mean-of-sampling-distribution,NS
+When multivariate analysis,Inferential Statistics,easy,2 Mins,https://www.interviewbit.com/problems/when-multivariate-analysis,NS
+Salutes,Strings,medium,18 Mins,https://www.interviewbit.com/problems/salutes,NS
+New variance,Probability,easy,6 Mins,https://www.interviewbit.com/problems/new-variance,NS
+Toss random variable,Probability,easy,1 Mins,https://www.interviewbit.com/problems/toss-random-variable,NS
+find the one,Data,Analysis,easy,https://www.interviewbit.com/problems/find-the-one,NS
+choose the output,Data,Analysis,easy,https://www.interviewbit.com/problems/choose-the-output,NS
+python broadcasting,Data,Analysis,easy,https://www.interviewbit.com/problems/python-broadcasting,NS
+Subplot Coordinates,Data,Analysis,easy,https://www.interviewbit.com/problems/subplot-coordinates,NS
+For 'series',Data,Analysis,easy,https://www.interviewbit.com/problems/for-'series',NS
+drop axis,Data,Analysis,easy,https://www.interviewbit.com/problems/drop-axis,NS
+Rename axis,Data,Analysis,easy,https://www.interviewbit.com/problems/rename-axis,NS
+Missing info,Descriptive Statistics,easy,1 Mins,https://www.interviewbit.com/problems/missing-info,NS
+!univariate,Descriptive Statistics,easy,1 Mins,https://www.interviewbit.com/problems/!univariate,NS
+Change in mean and median,Descriptive Statistics,easy,2 Mins,https://www.interviewbit.com/problems/change-in-mean-and-median,NS
+New average,Descriptive Statistics,easy,1 Mins,https://www.interviewbit.com/problems/new-average,NS
+Suitable mean,Descriptive Statistics,easy,1 Mins,https://www.interviewbit.com/problems/suitable-mean,NS
+Vertically Stacked Bar Graph,Data,Analysis,easy,https://www.interviewbit.com/problems/vertically-stacked-bar-graph,NS
+Image dimensions,Data,Analysis,easy,https://www.interviewbit.com/problems/image-dimensions,NS
+Dimension with components,Data,Analysis,easy,https://www.interviewbit.com/problems/dimension-with-components,NS
+Color interpretation,Data,Analysis,easy,https://www.interviewbit.com/problems/color-interpretation,NS
+Image cropping,Data,Analysis,easy,https://www.interviewbit.com/problems/image-cropping,NS
+Load RGB,Data,Analysis,easy,https://www.interviewbit.com/problems/load-rgb,NS
+iloc vs loc part I,Data,Analysis,easy,https://www.interviewbit.com/problems/iloc-vs-loc-part-i,NS
+Multivariate,Inferential Statistics,easy,1 Mins,https://www.interviewbit.com/problems/multivariate,NS
+Dependent variables,Inferential Statistics,easy,2 Mins,https://www.interviewbit.com/problems/dependent-variables,NS
+Sampling Distribution Mean,Inferential Statistics,easy,1 Mins,https://www.interviewbit.com/problems/sampling-distribution-mean,NS
+Standard Error of Sampling Distribution,Inferential Statistics,easy,2 Mins,https://www.interviewbit.com/problems/standard-error-of-sampling-distribution,NS
+Sampling error and Sampling Size,Inferential Statistics,easy,0 Mins,https://www.interviewbit.com/problems/sampling-error-and-sampling-size,NS
+Probability Distribution,Probability,medium,20 Mins,https://www.interviewbit.com/problems/probability-distribution,NS
+Hypothesis Testing in Salary of Data Scientists,Inferential Statistics,medium,34 Mins,https://www.interviewbit.com/problems/hypothesis-testing-in-salary-of-data-scientists,NS
+PCA's secondary objective,Data,Analysis,easy,https://www.interviewbit.com/problems/pca's-secondary-objective,NS
+Five number theory,Data,Analysis,easy,https://www.interviewbit.com/problems/five-number-theory,NS
+Duplicates detection,Data,Analysis,medium,https://www.interviewbit.com/problems/duplicates-detection,NS
+As a Series,Data,Analysis,easy,https://www.interviewbit.com/problems/as-a-series,NS
+Max registrations they asked?,Data,Analysis,medium,https://www.interviewbit.com/problems/max-registrations-they-asked?,NS
+Row-wise unique,Data,Analysis,medium,https://www.interviewbit.com/problems/row-wise-unique,NS
+How not to retrieve?,Data,Analysis,easy,https://www.interviewbit.com/problems/how-not-to-retrieve?,NS
+Fill Infinite,Data,Analysis,easy,https://www.interviewbit.com/problems/fill-infinite,NS
+IQR outlier detection,Descriptive Statistics,medium,27 Mins,https://www.interviewbit.com/problems/iqr-outlier-detection,NS
+Variability measures,Descriptive Statistics,medium,28 Mins,https://www.interviewbit.com/problems/variability-measures,NS
+Sum of 7's Multiple,Math,easy,22 Mins,https://www.interviewbit.com/problems/sum-of-7's-multiple,NS
+Find Last Digit,Math,easy,30 Mins,https://www.interviewbit.com/problems/find-last-digit,NS
+Town Selection,SQL,Programming,easy,https://www.interviewbit.com/problems/town-selection,NS
+Town Queries,SQL,Programming,easy,https://www.interviewbit.com/problems/town-queries,NS
+Last digit K count,Math,very easy,23 Mins,https://www.interviewbit.com/problems/last-digit-k-count,NS
+Double Increasing Series,Dynamic Programming,medium,43 Mins,https://www.interviewbit.com/problems/double-increasing-series,NS
+Greater of Lesser,Arrays,very easy,12 Mins,https://www.interviewbit.com/problems/greater-of-lesser,NS
+Frequency of Characters,Strings,very easy,15 Mins,https://www.interviewbit.com/problems/frequency-of-characters,NS
+Spiral Matrix,Arrays,easy,30 Mins,https://www.interviewbit.com/problems/spiral-matrix,NS
+Student Query,SQL,Programming,easy,https://www.interviewbit.com/problems/student-query,NS
+Collatz Conjecture,Time,Complexity,very easy,https://www.interviewbit.com/problems/collatz-conjecture,NS
+Country Filtration,SQL,Programming,easy,https://www.interviewbit.com/problems/country-filtration,NS
+Information Selector,SQL,Programming,easy,https://www.interviewbit.com/problems/information-selector,NS
+Town Of Threes,SQL,Programming,easy,https://www.interviewbit.com/problems/town-of-threes,NS
+Digital Root,Math,easy,13 Mins,https://www.interviewbit.com/problems/digital-root,NS
+Product of All,Arrays,easy,29 Mins,https://www.interviewbit.com/problems/product-of-all,NS
+Chips Factory,Arrays,very easy,18 Mins,https://www.interviewbit.com/problems/chips-factory,NS
+Bit Flipping,Bit,Manipulation,very easy,https://www.interviewbit.com/problems/bit-flipping,NS
+Number of Sundays,Math,very easy,21 Mins,https://www.interviewbit.com/problems/number-of-sundays,NS
+Greater than All,Arrays,very easy,18 Mins,https://www.interviewbit.com/problems/greater-than-all,NS
+Product of Digits,Math,very easy,9 Mins,https://www.interviewbit.com/problems/product-of-digits,NS
+Firefighter's Average,SQL,Programming,easy,https://www.interviewbit.com/problems/firefighter's-average,NS
+Firefighter's Sum,SQL,Programming,easy,https://www.interviewbit.com/problems/firefighter's-sum,NS
+Largest Difference,SQL,Programming,easy,https://www.interviewbit.com/problems/largest-difference,NS
+Maximum Substring,Strings,very easy,18 Mins,https://www.interviewbit.com/problems/maximum-substring,NS
+Round Table,Math,very easy,18 Mins,https://www.interviewbit.com/problems/round-table,NS
+Odd Even Rule,Math,very easy,11 Mins,https://www.interviewbit.com/problems/odd-even-rule,NS
+Distance Maximizer,SQL,Programming,medium,https://www.interviewbit.com/problems/distance-maximizer,NS
+Euclid's Distance,SQL,Programming,medium,https://www.interviewbit.com/problems/euclid's-distance,NS
+Big Salary,SQL,Programming,medium,https://www.interviewbit.com/problems/big-salary,NS
+Armstrong Number,Math,very easy,12 Mins,https://www.interviewbit.com/problems/armstrong-number,NS
+Leap Year,Math,very easy,9 Mins,https://www.interviewbit.com/problems/leap-year,NS
+Conditional Work,SQL,Programming,medium,https://www.interviewbit.com/problems/conditional-work,NS
+Role Ordering,SQL,Programming,hard,https://www.interviewbit.com/problems/role-ordering,NS
+Role Player,SQL,Programming,hard,https://www.interviewbit.com/problems/role-player,NS
+Role Counter,SQL,Programming,medium,https://www.interviewbit.com/problems/role-counter,NS
+Vowel Country,SQL,Programming,medium,https://www.interviewbit.com/problems/vowel-country,NS
+Lowest Common Multiple (LCM),Math,very easy,17 Mins,https://www.interviewbit.com/problems/lowest-common-multiple-(lcm),NS
+Character Frequencies,Strings,easy,16 Mins,https://www.interviewbit.com/problems/character-frequencies,NS
+Engineers Joined,SQL,Programming,easy,https://www.interviewbit.com/problems/engineers-joined,NS
+Many Tables,SQL,Programming,easy,https://www.interviewbit.com/problems/many-tables,NS
+Which Season?,Math,very easy,9 Mins,https://www.interviewbit.com/problems/which-season?,NS
+String Inversion,Strings,very easy,11 Mins,https://www.interviewbit.com/problems/string-inversion,NS
+Top Performer,SQL,Programming,hard,https://www.interviewbit.com/problems/top-performer,NS
+Low and High Grades,SQL,Programming,medium,https://www.interviewbit.com/problems/low-and-high-grades,NS
+Socks Pair,Math,very easy,14 Mins,https://www.interviewbit.com/problems/socks-pair,NS
+Pythagorean Triplets,Arrays,easy,24 Mins,https://www.interviewbit.com/problems/pythagorean-triplets,NS
+Study Selection,SQL,Programming,medium,https://www.interviewbit.com/problems/study-selection,NS
+Study Update,SQL,Programming,medium,https://www.interviewbit.com/problems/study-update,NS
+Study Deletion,SQL,Programming,medium,https://www.interviewbit.com/problems/study-deletion,NS
+Same Countries,SQL,Programming,medium,https://www.interviewbit.com/problems/same-countries,NS
+Two Stores,Math,easy,35 Mins,https://www.interviewbit.com/problems/two-stores,NS
+Palindromic Time,Time,Complexity,easy,https://www.interviewbit.com/problems/palindromic-time,NS
+Dice Rolls,Dynamic Programming,medium,27 Mins,https://www.interviewbit.com/problems/dice-rolls,NS
+Swap Bits,Bit,Manipulation,easy,https://www.interviewbit.com/problems/swap-bits,NS
+Pangram Check,Time,Complexity,very easy,https://www.interviewbit.com/problems/pangram-check,NS
+Connected Components,Graph Data Structure & Algorithms,easy,22 Mins,https://www.interviewbit.com/problems/connected-components,NS
+Diagonal Flip,Arrays,very easy,17 Mins,https://www.interviewbit.com/problems/diagonal-flip,NS
+Valid Password,Strings,very easy,18 Mins,https://www.interviewbit.com/problems/valid-password,NS
+Positive Negative,Arrays,very easy,9 Mins,https://www.interviewbit.com/problems/positive-negative,NS
+Climbing Stairs,Time,Complexity,medium,https://www.interviewbit.com/problems/climbing-stairs,NS
+Integers in Strings,Time,Complexity,medium,https://www.interviewbit.com/problems/integers-in-strings,NS
+Word Count,Time,Complexity,medium,https://www.interviewbit.com/problems/word-count,NS
+Extracting Numbers,Time,Complexity,very easy,https://www.interviewbit.com/problems/extracting-numbers,NS
+Palindromic Words,Strings,very easy,18 Mins,https://www.interviewbit.com/problems/palindromic-words,NS
+Palindrome Numbers,Two,Pointers,medium,https://www.interviewbit.com/problems/palindrome-numbers,NS
+Palindromic Substrings,Dynamic Programming,medium,26 Mins,https://www.interviewbit.com/problems/palindromic-substrings,NS
+5'th Highest Marks,SQL,Programming,medium,https://www.interviewbit.com/problems/5'th-highest-marks,NS
+Performance Improvement,SQL,Programming,medium,https://www.interviewbit.com/problems/performance-improvement,NS
+Famous Books,SQL,Programming,hard,https://www.interviewbit.com/problems/famous-books,NS
+Chess Tournament,SQL,Programming,hard,https://www.interviewbit.com/problems/chess-tournament,NS
+NULL sorting,SQL,Programming,hard,https://www.interviewbit.com/problems/null-sorting,NS
+I hate Vowels,SQL,Programming,hard,https://www.interviewbit.com/problems/i-hate-vowels,NS
+Birthdays,SQL,Programming,hard,https://www.interviewbit.com/problems/birthdays,NS
+Class Average,SQL,Programming,hard,https://www.interviewbit.com/problems/class-average,NS
+Tournament 2.0,SQL,Programming,hard,https://www.interviewbit.com/problems/tournament-2.0,NS
+Job Offer,SQL,Programming,hard,https://www.interviewbit.com/problems/job-offer,NS
+Job Offers 2.0,SQL,Programming,hard,https://www.interviewbit.com/problems/job-offers-2.0,NS
+Student Info,SQL,Programming,hard,https://www.interviewbit.com/problems/student-info,NS
+Next And Previous,SQL,Programming,hard,https://www.interviewbit.com/problems/next-and-previous,NS
+Minimum GPA,SQL,Programming,hard,https://www.interviewbit.com/problems/minimum-gpa,NS
+Number of offers,SQL,Programming,hard,https://www.interviewbit.com/problems/number-of-offers,NS
+Exploring the farmer's market,SQL,Programming,medium,https://www.interviewbit.com/problems/exploring-the-farmer's-market,NS
